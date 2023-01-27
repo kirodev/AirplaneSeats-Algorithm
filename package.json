@@ -1,11 +1,11 @@
 {
-  "name": "bumplan",
+  "name": "kirodev",
   "version": "1.0.0",
-  "description": "A simple program to find seating plan on an airplane.",
+  "description": "AirplaneSeats algorithm.",
   "main": "index.js",
-  "repository": "https://github.com/paambaati/bumplan",
-  "author": "GP <me@httgp.com>",
-  "license": "WTFPL",
+  "repository": "https://github.com/kirodev",
+  "author": "",
+  "license": "",
   "private": true,
   "scripts": {
     "start": "run(){ node index.js \"$1\" \"$2\"; }; run",
